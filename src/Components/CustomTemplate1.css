@@ -1,0 +1,27 @@
+*{
+    margin: 0%;  
+    padding: 0%; 
+}
+.custom{
+    background-color: rgb(11,26,51);
+    padding:0%;
+    margin:0;
+}
+
+.custom-icon
+{
+    background-color: black;
+    height:55px;
+    width: 55px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4rem;
+    border-radius:50%;
+    border:2px solid yellow;
+}
+.custom-icon:hover{
+    box-shadow: 2px 5px 5px 5px rgb(101, 175, 10);
+    height: 60px;
+    width: 60px;;
+}
