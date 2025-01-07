@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Generator/static/css/main.2e3ef659.css",
+    "main.js": "/Portfolio-Generator/static/js/main.7df919c7.js",
+    "static/js/488.9561f9b8.chunk.js": "/Portfolio-Generator/static/js/488.9561f9b8.chunk.js",
+    "static/media/trolley_stop_city.jpg": "/Portfolio-Generator/static/media/trolley_stop_city.a00f69c0a118cbb807f5.jpg",
+    "index.html": "/Portfolio-Generator/index.html",
+    "main.2e3ef659.css.map": "/Portfolio-Generator/static/css/main.2e3ef659.css.map",
+    "main.7df919c7.js.map": "/Portfolio-Generator/static/js/main.7df919c7.js.map",
+    "488.9561f9b8.chunk.js.map": "/Portfolio-Generator/static/js/488.9561f9b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e3ef659.css",
+    "static/js/main.7df919c7.js"
+  ]
+}
