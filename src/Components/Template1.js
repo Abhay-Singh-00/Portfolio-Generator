@@ -53,7 +53,7 @@ return(<div className='custom'>
                     borderRadius:"50%",
                   }}
                   >
-      <Card.Img src={require('Abhi03.jpg')}
+      <Card.Img src={require('./Abhi03.jpg')}
       alt="profile Thumbnail"
       style={{backgroundColor:"yellow",height:'270px',width:'270px',borderRadius:'50%',border:'2px solid blue',}}/>
       </motion.div>
