@@ -53,9 +53,9 @@ return(<div className='custom'>
                     borderRadius:"50%",
                   }}
                   >
-      <Card.Img src={require('./trolley_stop_city.jpg')}
+      <Card.Img src={require('Abhi03.jpg')}
       alt="profile Thumbnail"
-      style={{backgroundColor:"yellow",height:'230px',width:'230px',borderRadius:'50%',border:'2px solid blue',}}/>
+      style={{backgroundColor:"yellow",height:'270px',width:'270px',borderRadius:'50%',border:'2px solid blue',}}/>
       </motion.div>
       </Col>
     </Row>
